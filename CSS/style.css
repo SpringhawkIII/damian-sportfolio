@@ -1,0 +1,66 @@
+.flexContainer {
+    display: flex;
+}
+
+.logo {
+    height: 120px;
+    width: auto;
+    margin-right: 10px;
+}
+
+.myPicture {
+    margin-top: 20px;
+    margin-right: 40px;
+    height: 400px;
+    width: auto;
+}
+
+
+.flexCenter {
+    align-items: center;
+}
+
+.navigation ul {
+    background-color: #364a73;
+    width: 100%;
+}
+.menuItem {
+    color:white;
+    font-family:Helvetica, sans-serif;
+}
+
+
+.navigation li {
+    list-style: none;
+    margin-left: 16px;
+    background-color: #364a73;
+    
+}
+
+footer li {
+    list-style: none;
+    margin-left: 16px;
+    background-color: #364a73;   
+}
+
+.h1Text {
+    font-family: 'Lato', sans-serif;
+}
+
+p {
+    font-family:"Helvetica", "sans-serif";
+}
+
+footer {
+    background-color: #364a73;
+}
+
+.copyRight2022 {
+    color: white;
+}
+
+.footerLogo {
+    height: 50px;
+    width: auto;
+    margin-right: 10px;
+}
