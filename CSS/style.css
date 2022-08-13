@@ -53,6 +53,9 @@ p {
 
 footer {
     background-color: #364a73;
+    position:fixed;
+    bottom: 0;
+    width: 100%;
 }
 
 .copyRight2022 {
@@ -63,4 +66,44 @@ footer {
     height: 50px;
     width: auto;
     margin-right: 10px;
+}
+
+.vector {
+    margin-left: 180px;
+}
+
+.skillsGrid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+@media screen and (max-width:480px) {
+    p {
+        font-size:  52px;
+    }
+}
+
+.nav-link {
+    color:white !important;
+}
+
+.dwLogo {
+    height: 120px;
+    width: auto;
+    margin-right: 10px;
+}
+
+
+.heroText {
+    max-width: 800px;
+}
+
+.centerVerticle{
+display: flex;
+align-items: center;
+}
+
+.icons {
+height: 50px;
+padding: 0 12px;
 }
