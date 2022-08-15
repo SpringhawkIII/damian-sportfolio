@@ -49,6 +49,7 @@ footer li {
 
 p {
     font-family:"Helvetica", "sans-serif";
+    font-size: 16px;
 }
 
 footer {
@@ -104,6 +105,10 @@ align-items: center;
 }
 
 .icons {
-height: 50px;
 padding: 0 12px;
+font-size: 50px;
+}
+
+.h2Text{
+    margin-top: 30px;
 }
