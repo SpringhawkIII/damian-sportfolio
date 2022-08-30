@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "pwa-chrome",
+            "name": "http:///u201c",
+            "request": "launch",
+            "url": "http:///u201c"
+        }
+    ]
+}
